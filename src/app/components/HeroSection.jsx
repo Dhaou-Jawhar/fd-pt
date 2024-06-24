@@ -45,7 +45,7 @@ const HeroSection = () => {
               Hire Me
             </Link>
             <Link
-              href="/"
+              href="https://media.licdn.com/dms/document/media/D4E1FAQG3609Chn21TQ/feedshare-document-pdf-analyzed/0/1717926625723?e=1720051200&v=beta&t=I22K9PkH9wfVe8JKHZhLptfWKFU0_qWJza2XJkCV5Tg"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
